@@ -13,7 +13,7 @@ Become more organized with this to do list. Prioritize what needs to be done and
 
 
 ## Getting started
-![Click here to visit my site](https://makeyourlistnow.netlify.app/)
+[Visit my site](https://makeyourlistnow.netlify.app/)
 
 
 ## Future enhancement
